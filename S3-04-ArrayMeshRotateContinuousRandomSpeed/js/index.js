@@ -53,7 +53,6 @@ function init() {
       cubes.push(box);
     }
   }
-  //console.log(randomRotation);
   document.body.appendChild(renderer.domElement);
 }
 
